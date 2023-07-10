@@ -1,5 +1,6 @@
 # Math-F242-project
-#Operations Research Project
+Operations Research Project
+
 Here in this project, we explore the side of machine learning that can be used to estimate or
 predict when people stand in queues while availing of different kinds of services.
 We proceeded with the project by trying to find publicly available datasets. The dataset we used
